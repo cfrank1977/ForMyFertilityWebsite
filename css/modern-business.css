@@ -31,3 +31,46 @@ body {
    background: #45ccb1 !important;
  }
 
+ .btn-primary {
+  background: #45ccb1 !important;
+ }
+
+.my-4 { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
+
+.mt-4 { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
+
+.b-3 { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
+
+.carousel-caption { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
+
+.card-header { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
+
+.card-title a { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
+
+.port-title { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
+
+.call-acton { 
+  color: #45ccb1 !important;;
+  text-decoration: none;
+}
